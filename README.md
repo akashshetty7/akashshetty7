@@ -30,12 +30,4 @@ preview
 
 Support 🙏
 
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
+
