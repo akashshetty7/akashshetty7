@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashshetty7&label=Profile%20views&color=0e75b6&style=flat" alt="akashshetty7" /> </p>
 
-- 🔭 I’m currently working on **Data Analysis**
+- 🔭 I’m currently working as **Business Analyst Intern**
 
-- 🌱 I’m currently learning **Machine Learning and Artificial Intelligence**
+- 🌱 I’m currently learning **Data Analysis**
 
 - 👯 I’m looking to collaborate on **Data analysis projects**
 
